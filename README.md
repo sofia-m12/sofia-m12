@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sofia-m12
+👋 Hi, I’m Sofia
 # 💫 About Me:
 Computer Science student at Stevens Inst. of Technology<br>
 I'm doing research on LLM-based refactoring<br>
