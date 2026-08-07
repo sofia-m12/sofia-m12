@@ -1,7 +1,8 @@
 👋 Hi, I’m Sofia
 # 💫 About Me:
 Computer Science student at Stevens Institute of Technology<br>
-Currently researching LLM-based refactoring<br>
+Currently SWE Intern @ Nextdoor<br>
+Done research in LLM-based refactoring<br>
 Previous Software Engineering Intern @ Bread Financial, and continuing my journey in web development<br>
 I also like playing guitar in my free time!
 
