@@ -1,9 +1,8 @@
 👋 Hi, I’m Sofia
 # 💫 About Me:
 Computer Science student at Stevens Institute of Technology<br>
-Currently SWE Intern @ Nextdoor<br>
 Done research in LLM-based refactoring<br>
-Previous Software Engineering Intern @ Bread Financial, and continuing my journey in web development<br>
+Previous Software Engineering Intern @ Nextdoor and Bread Financial, and continuing my journey in web development<br>
 I also like playing guitar in my free time!
 
 Resume: https://sofia-m12.github.io/resume/Sofia_Martinez_resume.pdf
